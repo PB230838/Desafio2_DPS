@@ -1,0 +1,5 @@
+Api del ejercicio 2 
+
+https://661783e1ed6b8fa43482d6f1.mockapi.io/Planetas
+
+
